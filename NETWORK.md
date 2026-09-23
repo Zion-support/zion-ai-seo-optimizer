@@ -1,10 +1,16 @@
-# Zion AI SEO Optimizer
+# 🌐 Part of the Zion App Network
 
-SEO optimization app.
+**Zion AI SEO Optimizer** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-seo-optimizer](https://github.com/Zion-support/zion-seo-optimizer) · [ai-growth-marketing-hub](https://github.com/Zion-support/ai-growth-marketing-hub) · [ai-social-manager](https://github.com/Zion-support/ai-social-manager) · [zion-content-studio](https://github.com/Zion-support/zion-content-studio) · [ai-ecommerce-optimizer](https://github.com/Zion-support/ai-ecommerce-optimizer)
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
+
+## Related apps
+- [AI Growth Marketing Hub](https://github.com/Zion-support/ai-growth-marketing-hub)
+- [Zion AI Social Listening](https://github.com/Zion-support/zion-ai-social-listening)
+- [AI Social Manager](https://github.com/Zion-support/ai-social-manager)
 
 *Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*

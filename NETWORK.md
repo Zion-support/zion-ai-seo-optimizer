@@ -7,10 +7,10 @@ Zion AI SEO Optimizer — standalone AI SEO optimization app. Part of the [Zion 
 
 ## Related apps in the network
 
-- [Zion SEO Optimizer](https://github.com/Zion-support/zion-seo-optimizer) — AI SEO optimizer
+- [Zion SEO Optimizer](https://github.com/Zion-support/zion-seo-optimizer) — AI SEO optimization
 - [Zion Content Studio](https://github.com/Zion-support/zion-content-studio) — AI content studio
-- [AI Caption Optimizer](https://github.com/Zion-support/ai-caption-optimizer) — caption optimization
 - [Zion AI Social Listening](https://github.com/Zion-support/zion-ai-social-listening) — brand monitoring and sentiment
+- [AI Social Manager](https://github.com/Zion-support/ai-social-manager) — content scheduling and analytics
 - [Zion AI Email Marketing Pro](https://github.com/Zion-support/zion-ai-email-marketing-pro) — AI email marketing
 
 ## Part of the Zion App Network
